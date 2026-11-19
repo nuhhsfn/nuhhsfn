@@ -1,4 +1,4 @@
-
+# About Me:
 Student at **SMK Telkom Lampung** interested in **IoT, robotics, embedded systems, and electronics**. I enjoy building projects, experimenting with technology, and turning ideas into reality.<br><br>- 🔭 **Building:** IoT devices, robotics, and embedded projects<br>- 🌱 **Exploring:** PCB design, automation, and web development<br>- ⚡ **Hardware:** ESP32, Arduino, sensors, and microcontrollers<br>- 💻 **Programming:** C, C++, Python, JavaScript<br>- 🛠️ **Tools:** PlatformIO, EasyEDA, VS Code, Git<br>- 💬 **Interests:** Electronics, engineering, software, and innovation
 
 
