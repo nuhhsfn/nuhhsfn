@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Student at **SMK Telkom Lampung** majoring in **Software Engineering **. My name is **Nuh Hasif Iftihar**, passionate about technology, robotics, IoT, and electronics. I enjoy designing circuits, developing embedded systems, and turning ideas into real-world projects.<br><br>- **Focus:** Robotics, IoT, and embedded systems<br>- **Exploring:** PCB design, electronics, and automation<br>- **Building:** Smart devices and hardware projects<br>- **Technologies:** ESP32, Arduino, sensors, and microcontrollers<br>- **Tools:** PlatformIO, EasyEDA, VS Code, and Git
 
 
